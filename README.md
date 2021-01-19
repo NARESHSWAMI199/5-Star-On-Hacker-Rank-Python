@@ -1,7 +1,7 @@
 # 5 Star With Gold Medal On Hacker Rank Python
 
 
-### Q. What is [hacker rank] (https://www.hackerrank.com) ?
+### Q. What is [hacker rank](https://www.hackerrank.com) ?
 
 Ans.  Hacker Rank is website or a platform for devlopers and hackers. here basically we solve many problems for build our problem solving skills. this is avlilable        for many languages devlopers. 
 

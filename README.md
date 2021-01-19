@@ -5,7 +5,9 @@
 
 Ans.  Hacker Rank is website or a platform for devlopers and hackers. here basically we solve many problems for build our problem solving skills. this is avlilable        for many languages devlopers. 
 
+### Q. How i found which file is answer of which question ?
 
+Ans. simply go on [hacker rank]https://www.hackerrank.com/ and search file name here and test this answer on there. 
 
 - i have completed four star on hacker rank
 ![Screenshot from 2020-12-29 19-07-12](https://user-images.githubusercontent.com/51693679/103288011-f1fd4300-4a09-11eb-80c2-e0ed989c7573.png)

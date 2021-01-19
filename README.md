@@ -9,8 +9,8 @@ Ans.  Hacker Rank is website or a platform for devlopers and hackers. here basic
 
 Ans. simply go on [hacker rank](https://www.hackerrank.com) and search file name here and test this answer on there. 
 
-- i have completed four star on hacker rank
+## i have completed four star on hacker rank
 <img src="https://user-images.githubusercontent.com/51693679/103288011-f1fd4300-4a09-11eb-80c2-e0ed989c7573.png" data-canonical-src="https://user-images.githubusercontent.com/51693679/103288011-f1fd4300-4a09-11eb-80c2-e0ed989c7573.png" width="450" height="350" />
 
-- i have completed 5 star on Hacer Rank
+## i have completed 5 star on Hacer Rank
 <img src="https://user-images.githubusercontent.com/51693679/104126981-89a54e80-5385-11eb-8c7a-440c58e2d624.png" data-canonical-src="https://user-images.githubusercontent.com/51693679/104126981-89a54e80-5385-11eb-8c7a-440c58e2d624.png" width="450" height="350" />

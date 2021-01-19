@@ -1,4 +1,4 @@
-# 5 Star With Gold Medal On [Hacker Rank](https://www.hackerrank.com)  Python :star_struck: :sunglasses:
+# 5 Star With Gold Medal On [Hacker Rank](https://www.hackerrank.com)  :star_struck: :sunglasses:
 
 
 ### Q. What is [hacker rank](https://www.hackerrank.com) ?

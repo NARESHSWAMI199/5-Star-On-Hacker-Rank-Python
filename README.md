@@ -2,7 +2,7 @@
 
 
 ### Q. What is hacker rank ?
- Ans.  Hacker Rank is website or a platform for devlopers and hackers. here basically we solve many problems for build our problem solving skills. this is avlilable        for many languages devlopers. 
+##### Ans.  Hacker Rank is website or a platform for devlopers and hackers. here basically we solve many problems for build our problem solving skills. this is avlilable        for many languages devlopers. 
 
 
 
